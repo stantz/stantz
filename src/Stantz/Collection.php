@@ -1,4 +1,4 @@
-<?php namespace Stantz;
+<?php
 
 /**
  * Collection
@@ -10,6 +10,8 @@
  * @version     0.1.0
  *
  */
+
+ namespace Stantz;
 
 abstract class Collection implements \Iterator
 {

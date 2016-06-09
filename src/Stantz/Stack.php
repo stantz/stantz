@@ -1,4 +1,4 @@
-<?php namespace Stantz;
+<?php
 
 /**
  * Stack
@@ -11,6 +11,8 @@
  * @version     0.1.0
  *
  */
+
+namespace Stantz;
 
 class Stack
 {
