@@ -64,7 +64,7 @@ abstract class Collection implements \Iterator
 
   public function clear()
   {
-    $this->collection[];
+    $this->collection = [];
     $this->current = null;
     $this->index = 0;
   }
